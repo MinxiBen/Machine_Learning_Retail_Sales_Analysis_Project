@@ -33,3 +33,13 @@ using scikit-learn’s SVM implementation.
 metrics: accuracy, precision, recall, and F1-score.
 
 Prediction function for new book sales data.
+
+### 5.Example Result
+
+Achieved around 85% accuracy on test data, but recall is lower for "bestseller" books (38%) 
+
+### 6.Future Work
+
+Incorporate other variables (book titles).
+
+Try other models (Random Forest, XGBoost) for comparison.
